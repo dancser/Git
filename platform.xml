@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <bcs>datamodelbc,formdatafacilitybc,workflowbc,rulebc,reportbc,documentbc,jobbc,integrationbc,themebc,logbc,i18nbc,websitebc,eportalbc,snsbc,portalbc,menubc,authoritybc</bcs>
+  <language>chinese</language>
+</root>
+
