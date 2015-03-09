@@ -1,8 +1,0 @@
-jco.client.lang=zh
-jco.destination.peak_limit=10
-jco.client.client=666
-jco.client.passwd=webservice
-jco.client.user=t_webservice
-jco.client.sysnr=00
-jco.destination.pool_capacity=3
-jco.client.ashost=10.0.5.17
